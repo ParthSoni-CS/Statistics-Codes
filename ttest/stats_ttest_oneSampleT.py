@@ -1,15 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# # COURSE: Master statistics and machine learning: Intuition, Math, code
-# ##### COURSE URL: udemy.com/course/statsml_x/?couponCode=202006 
-# ## SECTION: The t-test family
-# ### VIDEO: One-sample t-test
-# #### TEACHER: Mike X Cohen, sincxpress.com
-
-# In[ ]:
-
-
 # import libraries
 import matplotlib.pyplot as plt
 import numpy as np

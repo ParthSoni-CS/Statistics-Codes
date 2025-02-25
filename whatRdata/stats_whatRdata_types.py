@@ -1,16 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# # COURSE: Master statistics and machine learning: intuition, math, code
-# ##### COURSE URL: udemy.com/course/statsml_x/?couponCode=202006 
-# ## SECTION: What are (is?) data?
-# ### VIDEO: Code: Representing types of data on computers
-# #### TEACHER: Mike X Cohen, sincxpress.com
-# 
-
-# In[ ]:
-
-
 ## create variables of different types (classes)
 
 # data numerical (here as a list)

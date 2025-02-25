@@ -1,15 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# # COURSE: Master statistics and machine learning: Intuition, Math, code
-# ##### COURSE URL: udemy.com/course/statsml_x/?couponCode=202304 
-# ## SECTION: Clustering and dimension-reduction
-# ### VIDEO: K-means clustering
-# #### TEACHER: Mike X Cohen, sincxpress.com
-
-# In[ ]:
-
-
 import numpy as np
 import matplotlib.pyplot as plt
 import pylab

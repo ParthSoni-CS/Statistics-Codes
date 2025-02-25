@@ -1,15 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# # COURSE: Master statistics and machine learning: Intuition, Math, code
-# ##### COURSE URL: udemy.com/course/statsml_x/?couponCode=202304 
-# ## SECTION: Descriptive statistics
-# ### VIDEO: Computing central tendency
-# #### TEACHER: Mike X Cohen, sincxpress.com
-
-# In[ ]:
-
-
 # import libraries
 import matplotlib.pyplot as plt
 import numpy as np

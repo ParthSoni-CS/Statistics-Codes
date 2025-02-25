@@ -1,15 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# # COURSE: Master statistics and machine learning: Intuition, Math, code
-# ##### COURSE URL: udemy.com/course/statsml_x/?couponCode=202006 
-# ## SECTION: Regression
-# ### VIDEO: Logistic regression
-# #### TEACHER: Mike X Cohen, sincxpress.com
-
-# In[ ]:
-
-
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.linear_model import LogisticRegression
